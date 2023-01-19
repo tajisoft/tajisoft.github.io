@@ -3,9 +3,7 @@ layout: default
 title: 'Tagit'
 ---
 
-# Tagit support
-
-## Summary
+# Summary
 iPad/iPhone両方で使えるタグ（付箋）アプリです。
 
 ・直感的な操作で分かりやすいです。
@@ -16,10 +14,10 @@ iPad/iPhone両方で使えるタグ（付箋）アプリです。
 
 ・ダークモード対応しています。
 
-## Demo
-<video controls playsinline width="100%" autoplay loop muted="true" src="./assets/tagit.mp4" type="video/mp4" >
+# Demo
+<video controls playsinline width="50%" autoplay loop muted="true" src="./assets/tagit.mp4" type="video/mp4" >
  Sorry, your browser doesn't support embedded videos.
 </video>
 
-## Feedback
+# Feedback
 不具合・ご意見などはTwitter @tajitaji551にお願いいたします。
