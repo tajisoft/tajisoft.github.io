@@ -1,5 +1,6 @@
 ---
 layout: default
+title: 'Tagit'
 ---
 
 # Tagit support

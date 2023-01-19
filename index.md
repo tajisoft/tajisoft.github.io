@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # TAJISOFT APPs
 
 ## App gallery
