@@ -1,5 +1,4 @@
 markdown: kramdown
 title: TAJISOFT APPs
 description: App support page
-show_downloads: true
 theme: jekyll-theme-hacker
