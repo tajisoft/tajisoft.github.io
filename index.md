@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# TAJISOFT APPs
-
-## App gallery
+# App gallery
 - [Tagit](./tagit.md)
 
